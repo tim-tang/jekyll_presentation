@@ -1,8 +1,0 @@
-# Introduce To Jekyll
-
-Hello, This is my first Jekyll presentation....
-
-- \[Left\]/\[Right\] arrows to move
-- \[Space\] or \[Double Click\] to go to next slide
-- \[ESC\]/\[Del\]/\[Tab\] to overview
-- \[0-9\] keys followed by \[Enter\] to go straight to one slide
